@@ -1,0 +1,2 @@
+# hexo-blog
+new blog
